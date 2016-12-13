@@ -6,8 +6,9 @@
 **File APK**	
 https://drive.google.com/file/d/0B1Py9wVJD0RrUDl5SktzbVNTajg/view?usp=sharing
 
-*Identitas : 
-      * Nama : Siti Afiyah 		     
-      * Kelas : XI RPL 5 	
-      * No. Urut : 33 
-      * Sekolah : SMK TELKOM MALANG
+* Identitas : 
+     * Nama : Siti Afiyah 
+     * Kelas : XI RPL 5 
+     * No. Urut : 33 
+     * NIS : 4839/1558.070 
+     * Nama Sekolah : SMK Telkom Malang
